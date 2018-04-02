@@ -14,9 +14,9 @@
   body
   {
     background-color:   #183026;
-    background-image:   asset-url('overlay.png'),      asset-url('bg.jpg');
-    background-repeat:    repeat,               no-repeat;
-    background-size:    auto,               cover;
+    /*background-image:   asset-url('overlay.png'),      asset-url('bg.jpg');*/
+    /*background-repeat:    repeat,               no-repeat;*/
+    /*background-size:    auto,               cover;*/
     background-position:  top left,             center 0;
     background-attachment:  fixed,                fixed;
   }
@@ -90,7 +90,7 @@
 
   a
   {
-    color: #35b88f;
+    color: white;
     text-shadow: 0 0 0.5px rgba(53,184,143,0.25);
     -moz-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
     -webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
